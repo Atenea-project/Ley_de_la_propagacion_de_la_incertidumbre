@@ -3,7 +3,7 @@ En este repositorio veremos como aplicar la ley de la propagación de la incerti
 
 Una versión ejecutable del código se encuentra disponible en el siguiente vinculo.
 
-https://drive.google.com/file/d/1FOnaB9ZgBoMGSVQecIWCyVu1DIWvgeYG/view?usp=sharing
+https://colab.research.google.com/drive/1gvIuVJVAlv8BPqXi1BiiRTQTGr0V_MiN?usp=sharing
 
 Se tiene que abrir en Google colab
 
